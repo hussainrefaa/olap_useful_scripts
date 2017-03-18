@@ -1,0 +1,3 @@
+
+-- generate script to move all tablespace to new table space
+select  'ALTER TABLE ' || TNAME || ' MOVE TABLESPACE MUNITBS' from tab;
