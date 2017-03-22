@@ -1,11 +1,11 @@
 
--- Author: 	Hussain refaa
+-- Author: 	Hussain Refaa
 -- creation Date: 	2008
 -- Last Updated: 	0000-00-00
 -- Control Number:	xxxx-xxxx-xxxx-xxxx
 -- Version: 	0.0
 -- Phone : +4915775148443
--- Email: hus244@gmail.com/
+-- Email: refaa.hussain@gmail.com/
 CREATE TYPE unit_cost_price_row AS OBJECT (
    aw_unit_cost     NUMBER,
    aw_unit_price    NUMBER,
